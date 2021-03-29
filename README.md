@@ -1,4 +1,7 @@
 # Challenge
+
+The code should be run from any enivronment which runs Python3 code and has the required libraries. The code provided was made using Spyder4 from Anaconda.
+
 Find duplicates in .csv file
 
 To find the duplicates in the .csv file a dictionary was used.
